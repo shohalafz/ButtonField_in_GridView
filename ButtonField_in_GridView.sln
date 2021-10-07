@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonField_in_GridView", "ButtonField_in_GridView\ButtonField_in_GridView.csproj", "{3A4A57FE-EB07-4979-AC0F-5E1E6BD543AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4A57FE-EB07-4979-AC0F-5E1E6BD543AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4A57FE-EB07-4979-AC0F-5E1E6BD543AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4A57FE-EB07-4979-AC0F-5E1E6BD543AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4A57FE-EB07-4979-AC0F-5E1E6BD543AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36CF48DF-05BB-4059-9BCD-CCF399CA19A6}
+	EndGlobalSection
+EndGlobal
